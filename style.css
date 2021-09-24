@@ -1,0 +1,25 @@
+.container-fluid{
+    display:flex;
+    flex-direction: column;
+    width:50vw;
+    margin-top: 2em ;
+    padding:10px;
+    
+  
+  }
+
+  .heading{
+    font-family: Montserrat-Black;
+    text-align: center;
+    font-weight: bolder;
+    color: #22577A;
+  }
+  body{
+    background-color: #E8F6EF;
+  }
+  #output{
+      font-size: xx-large;
+      text-align: center;
+      color:#22577A;
+      
+  }

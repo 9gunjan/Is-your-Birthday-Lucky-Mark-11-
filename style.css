@@ -16,6 +16,7 @@
   }
   body{
     background-color: #E8F6EF;
+    margin-left: 25%;
   }
   #output{
       font-size: xx-large;
@@ -23,3 +24,29 @@
       color:#22577A;
       
   }
+  .btn{
+    width: 200px;
+    margin-left: 36%;
+    font-size: larger;
+    color: #22577A;
+
+  }
+  #d-o-b{
+    margin-top:20px;
+    margin-bottom:20px;
+    margin-left: 36%;
+    width: 200px;
+  }
+  #lucky-number{
+    margin-top:20px;
+    margin-bottom:20px;
+    margin-left: 36%;
+    width: 200px;
+
+  }
+  .title{
+    font-size: larger;
+    text-align: center;
+  }
+
+ 
